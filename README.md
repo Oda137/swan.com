@@ -16,7 +16,6 @@
 <a href="https://www.youtube.com/watch?v=xSXzw1XiDVw">
     <img src="https://cdn-icons-png.flaticon.com/512/7204/7204190.png" alt="HTML tutorial" style="width:100px;height:100px;">
 </body>
-<body>
 <style>
 body {
   background-image: url('https://i.pinimg.com/originals/5b/bc/52/5bbc521981b2c6615d630476bcbe660d.jpg');
