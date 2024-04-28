@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://oda137.github.io/swan.github.io/">swan.github.io</a></h1>
-      
-
-      <html>
 <head>
 <title>Sans stress</title>
 <h1 style="color:WHITE;text-align: center;">Sans stress </h1> 
@@ -45,17 +35,6 @@ body {
     </a>
 </body>
 </head>
-</html>
-
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
-
 
 
 
