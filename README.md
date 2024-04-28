@@ -13,6 +13,7 @@
     <img src="https://static.vecteezy.com/system/resources/thumbnails/008/482/132/small/funny-cat-cartoon-png.png" alt="HTML tutorial" style="width:100px;height:100px;">
 
 
+  </a> 
 <a href="https://www.youtube.com/watch?v=xSXzw1XiDVw">
     <img src="https://cdn-icons-png.flaticon.com/512/7204/7204190.png" alt="HTML tutorial" style="width:100px;height:100px;">
 </body>
