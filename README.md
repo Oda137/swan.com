@@ -18,7 +18,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/7204/7204190.png" alt="HTML tutorial" style="width:100px;height:100px;">
 </body>
     <body>
-    
+    </body>
 <style>
     
 body {
