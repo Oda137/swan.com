@@ -1,8 +1,11 @@
-<!DOCTYPE html>
+
 <head>
- 
- 
-    
+ <style>
+ {
+  background-image: url('https://i.pinimg.com/originals/5b/bc/52/5bbc521981b2c6615d630476bcbe660d.jpg');
+}
+</style>
+     
 <title>Sans stress</title>
 <h1 style="color:WHITE;text-align: center;">Sans stress </h1> 
  </head>
@@ -22,11 +25,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/7204/7204190.png" alt="HTML tutorial" style="width:100px;height:100px;">
 
 
-<style>
- {
-  background-image: url('https://i.pinimg.com/originals/5b/bc/52/5bbc521981b2c6615d630476bcbe660d.jpg');
-}
-</style>
+
   </a>
 <a href="https://simplified.com/es-ai-story-generator">
     <img src="https://static.vecteezy.com/system/resources/previews/023/959/284/non_2x/owl-reading-a-book-smart-and-cute-cartoon-character-free-png.png
