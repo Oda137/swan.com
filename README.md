@@ -1,7 +1,6 @@
 
   <head>
-
-    <style>
+  <style>
 body {
   background-image: url('https://i.pinimg.com/originals/5b/bc/52/5bbc521981b2c6615d630476bcbe660d.jpg');
 }
