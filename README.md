@@ -7,12 +7,11 @@ body {
 }
 </style>
     </style>
-    </head>
-    <body>
-    
+    </head>  
     
 <title>Sans stress</title>
 <h1 style="color:WHITE;text-align: center;">Sans stress </h1> 
+<body>
 <a href="https://www.youtube.com/watch?v=VkbvUjbHcGE">
     <img src="https://cdn-icons-png.flaticon.com/512/3805/3805311.png" alt="HTML tutorial" style="width:100px;height:100px;">
 
@@ -36,7 +35,6 @@ body {
     " alt="HTML tutorial" style="width:100px;height:100px;">
 
 </a>
-
 
 <a href="https://www.youtube.com/shorts/eEIbk0dHK18">
     <img src="https://images.vexels.com/media/users/3/151934/isolated/preview/9aa6fa876917b538540c5ea36f23c8e7-dibujos-animados-de-animales-de-conejo.png" alt="HTML tutorial" style="width:100px;height:100px;">
