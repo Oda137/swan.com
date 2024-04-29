@@ -7,7 +7,7 @@ body {
 }
 </style>
     </style>
-    </head>  
+   
     
 <title>Sans stress</title>
 <h1 style="color:WHITE;text-align: center;">Sans stress </h1> 
@@ -26,7 +26,8 @@ body {
 
 <a href="https://www.youtube.com/watch?v=xSXzw1XiDVw">
     <img src="https://cdn-icons-png.flaticon.com/512/7204/7204190.png" alt="HTML tutorial" style="width:100px;height:100px;">
-</body>
+  <head> </head>
+
 <body>
 
 
